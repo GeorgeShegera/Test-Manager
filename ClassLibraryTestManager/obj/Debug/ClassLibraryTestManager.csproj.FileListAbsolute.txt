@@ -1,0 +1,15 @@
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\ClassLibraryTestManager\bin\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\ClassLibraryTestManager\bin\Debug\ClassLibraryTestManager.pdb
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\bin\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\bin\Debug\ClassLibraryTestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\bin\Debug\Newtonsoft.Json.dll
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\bin\Debug\Newtonsoft.Json.xml
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.csproj.CopyComplete
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\WinForms\TestManager\ClassLibraryTestManager\obj\Debug\ClassLibraryTestManager.pdb

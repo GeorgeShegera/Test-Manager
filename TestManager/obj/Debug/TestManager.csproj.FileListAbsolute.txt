@@ -1,0 +1,30 @@
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TextManager.Form1.resources
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.csproj.GenerateResource.cache
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\bin\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\bin\Debug\ClassLibraryTestManager.pdb
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.csproj.CopyComplete
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\bin\Debug\TestManager.exe.config
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\bin\Debug\TestManager.exe
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\bin\Debug\TestManager.pdb
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.Properties.Resources.resources
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.exe
+G:\Мой диск\C# learning\C# articles\The Complete Guide to the C#11\Chapter lll Object Oriented Programming\TextManager\TextManager\obj\Debug\TestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\TestManager.exe.config
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\TestManager.exe
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\TestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\Newtonsoft.Json.dll
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\ClassLibraryTestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\bin\Debug\Newtonsoft.Json.xml
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.Properties.Resources.resources
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.csproj.GenerateResource.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.csproj.CopyComplete
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.exe
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestManager\obj\Debug\TextManager.TestManagerWnd.resources

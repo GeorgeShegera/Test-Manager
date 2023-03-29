@@ -1,0 +1,17 @@
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\TestPassing.exe.config
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\TestPassing.exe
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\TestPassing.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\ClassLibraryTestManager.dll
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\Newtonsoft.Json.dll
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\ClassLibraryTestManager.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\bin\Debug\Newtonsoft.Json.xml
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.Properties.Resources.resources
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.csproj.GenerateResource.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.csproj.CopyComplete
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.exe
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.pdb
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.MainWnd.resources
+G:\Мой диск\C# learning\WinForms\TestManager\TestPassing\obj\Debug\TestPassing.ResultWnd.resources
